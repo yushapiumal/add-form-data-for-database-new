@@ -4,6 +4,7 @@
 <head>
     <link rel="stylesheet" type="text/css" href="form.css">
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <title> add data from database</title>
 </head>
 
 <body>
